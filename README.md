@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-writer.c
+## writer.c
 ~~~
 // C Program for Message Queue (Writer Process) 
 #include <stdio.h> 
@@ -51,7 +51,7 @@ int main()
 	return 0; 
 } 
 ~~~
-reader.c
+## reader.c
 ~~~
 // C Program for Message Queue (Reader Process)
 #include <stdio.h>
@@ -84,7 +84,6 @@ int main()
 }
 ~~~
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/755b0377-3789-441c-82f7-3546f7107e13)
-
+![alt text](image.png)
 # RESULT:
 The programs are executed successfully.
